@@ -15,6 +15,5 @@ After this, the scripts each start a Flask app with a different routing, linked 
 
 All the files in the [templates](./templates) directory are HTML templates for the Flask scripts to render.
 
-## Author (solo project)
-
-Laura Roudge
+## Author
+Mohamed Hassan
